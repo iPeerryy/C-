@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sumas dos primeros y dividir entre el tercero/1.0.0": {
+        "runtime": {
+          "sumas dos primeros y dividir entre el tercero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sumas dos primeros y dividir entre el tercero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

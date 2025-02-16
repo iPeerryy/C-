@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\bin\Debug\net8.0\sumas dos primeros y dividir entre el tercero.exe
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\bin\Debug\net8.0\sumas dos primeros y dividir entre el tercero.deps.json
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\bin\Debug\net8.0\sumas dos primeros y dividir entre el tercero.runtimeconfig.json
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\bin\Debug\net8.0\sumas dos primeros y dividir entre el tercero.dll
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\bin\Debug\net8.0\sumas dos primeros y dividir entre el tercero.pdb
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\sumas dos primeros y dividir entre el tercero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\sumas dos primeros y dividir entre el tercero.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\sumas dos primeros y dividir entre el tercero.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\sumas dos primeros y dividir entre el tercero.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\sumas dos primeros y dividir entre el tercero.dll
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\refint\sumas dos primeros y dividir entre el tercero.dll
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\sumas dos primeros y dividir entre el tercero.pdb
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\sumas dos primeros y dividir entre el tercero.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Proyectos\Programacion 1 lab\sumas dos primeros y dividir entre el tercero\obj\Debug\net8.0\ref\sumas dos primeros y dividir entre el tercero.dll
