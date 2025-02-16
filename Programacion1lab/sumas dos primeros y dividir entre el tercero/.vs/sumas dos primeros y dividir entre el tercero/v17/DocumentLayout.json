@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion 1 lab\\sumas dos primeros y dividir entre el tercero\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\sumas dos primeros y dividir entre el tercero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13011EA7-DF2F-414C-9B62-B8FE419D6055}|sumas dos primeros y dividir entre el tercero.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion 1 lab\\sumas dos primeros y dividir entre el tercero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13011EA7-DF2F-414C-9B62-B8FE419D6055}|sumas dos primeros y dividir entre el tercero.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\sumas dos primeros y dividir entre el tercero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13011EA7-DF2F-414C-9B62-B8FE419D6055}|sumas dos primeros y dividir entre el tercero.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion 1 lab\\sumas dos primeros y dividir entre el tercero\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\sumas dos primeros y dividir entre el tercero\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion 1 lab\\sumas dos primeros y dividir entre el tercero\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\sumas dos primeros y dividir entre el tercero\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T17:09:04.584Z",
               "EditorCaption": ""

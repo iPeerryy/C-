@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sumas dos primeros y dividir entre el tercero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b3709d7d5cfffe3ee65a852a05cbe3987c25f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9ab705774fe8a71fef6bac05b44dd9af5ada6f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("sumas dos primeros y dividir entre el tercero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sumas dos primeros y dividir entre el tercero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
