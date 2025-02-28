@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\bin\Debug\net8.0\Conseguir datos de personas.exe
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\bin\Debug\net8.0\Conseguir datos de personas.deps.json
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\bin\Debug\net8.0\Conseguir datos de personas.runtimeconfig.json
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\bin\Debug\net8.0\Conseguir datos de personas.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\bin\Debug\net8.0\Conseguir datos de personas.pdb
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.sourcelink.json
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\refint\Conseguir datos de personas.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.pdb
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\Conseguir datos de personas.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1lab\Conseguir datos de personas\Conseguir datos de personas\obj\Debug\net8.0\ref\Conseguir datos de personas.dll
