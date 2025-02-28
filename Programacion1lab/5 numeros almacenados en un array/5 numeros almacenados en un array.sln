@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 numeros almacenados en un array", "5 numeros almacenados en un array\5 numeros almacenados en un array.csproj", "{6B98A696-DA1A-453C-9D15-E72A607ECC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B98A696-DA1A-453C-9D15-E72A607ECC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B98A696-DA1A-453C-9D15-E72A607ECC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B98A696-DA1A-453C-9D15-E72A607ECC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B98A696-DA1A-453C-9D15-E72A607ECC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC28B509-A570-4A01-B2CF-50A21E7FCB07}
+	EndGlobalSection
+EndGlobal

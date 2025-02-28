@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conseguir datos de personas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7dd184592d8a65c05778bac35f8da64484f1165")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d5b8023efd917f0e0d7055654edf2880ac62bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conseguir datos de personas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conseguir datos de personas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
